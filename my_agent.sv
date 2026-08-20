@@ -29,7 +29,4 @@ drv_inst.seq_item_port.connect(seq_inst.seq_item_export);
 
 endfunction
 
-
-
-
 endclass
