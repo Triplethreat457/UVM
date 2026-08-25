@@ -30,5 +30,5 @@ You can easily simulate this project in the browser without a local SystemVerilo
    * **Testbench + Design:** SystemVerilog/Verilog
    * **UVM / OVM:** UVM 1.2
    * **Tools & Simulators:** Aldec Riviera Pro (or any simulator supporting UVM)
-5. Click **Run** **Open EP WAVE** to execute the simulation and view the UVM info logs.
+5. Click `Run` and `Open EP WAVE after run` to execute the simulation and view the UVM info logs.
 ![alt text](image.png)
